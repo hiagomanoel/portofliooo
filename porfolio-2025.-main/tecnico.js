@@ -126,7 +126,12 @@ trimestres.forEach(tri => {
             link: 'https://www.canva.com/design/DAGhnnxjuKQ/S451KU1xFrN3WySnznLM8Q/edit'
           }
         ],
-        '2º Trimestre': [],
+        '2º Trimestre': [{
+            titulo: 'Protótipo no Figma: Este é o design desenvolvido para o site e o aplicativo da S.A., reunindo as principais telas, fluxos de navegação e elementos visuais do projeto. Habilidades: H1 e H7.',
+            imagem: '/imgs/sensorlink.png',
+            link: 'https://www.canva.com/design/DAGhnnxjuKQ/30uIJWbF2GKWReMaFQplPA/view?utm_content=DAGhnnxjuKQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h21e019a525'
+          },
+         ],
         '3º Trimestre': []
       },
       IoT: {
@@ -138,11 +143,17 @@ trimestres.forEach(tri => {
           },
         ],
         '2º Trimestre': [],
+
+
         '3º Trimestre': []
       },
       'Banco de Dados': {
         '1º Trimestre': [],
-        '2º Trimestre': [],
+        '2º Trimestre': [{
+            titulo: 'Trata-se de uma lista de exercícios com questões de raciocínio lógico aplicadas à Modelagem Conceitual. Habilidades: H1, H2, H3 e H4.',
+            imagem: '/imgs/exercicio.png',
+            link: ''
+          }],
         '3º Trimestre': []
       }
     };
