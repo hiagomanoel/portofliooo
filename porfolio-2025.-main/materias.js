@@ -66,7 +66,7 @@ trimestres.forEach(tri => {
           { titulo: 'Projeto que envolve a definição de um objetivo de pesquisa simples, coleta e organização de dados usando Google Forms e Planilhas. A partir disso, aplicam-se análises estatísticas básicas (média, mediana, moda e amplitude) e gráficos para interpretar resultados e tirar conclusões a partir de dados reais. Habilidades trabalhadas: C4, H27, H28, H29', 
           imagem: '/imgs/quehoras.png', 
           link: 'https://docs.google.com/forms/d/e/1FAIpQLSfibm6dsoIAY500ML7HEZaYFHDqU6cFFw5WFsDdj6wCW0dYwQ/viewform' },
-        { titulo: 'a fazer', 
+        { titulo: 'Resultado do PASSE: No segundo trimestre alcancei 217 pontos na avaliação. Competências e habilidades: Todas.', 
           imagem: '/imgs/passe.png', 
           link: '' }],
         '3º Trimestre': []
